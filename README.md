@@ -8,3 +8,7 @@ Well, I wanted viewers to be able to download the map if they wanted to without 
 # Why am I here?
 
 That's a really good question.
+
+# How much time did you spend on making this (github repo)?
+
+Ehhhh... maybe 2-3 hours
